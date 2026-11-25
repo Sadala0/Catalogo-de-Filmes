@@ -113,6 +113,6 @@ catalogo-filmes/
 
 <div align="center">
 
-Feito por **SEU NOME** 💙
+Feito por **Lucas Sadala**
 
 </div>
